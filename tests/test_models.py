@@ -1,5 +1,6 @@
 from distutils.version import LooseVersion
 
+
 from django import get_version
 from django.contrib.sites.models import Site
 from django.urls import reverse
