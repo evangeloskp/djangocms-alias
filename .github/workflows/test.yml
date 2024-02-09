@@ -20,6 +20,7 @@ jobs:
         requirements-file: [
             django_22.txt,
             django_32.txt,
+            django_42.txt,
         ]
         os: [
             ubuntu-20.04,
